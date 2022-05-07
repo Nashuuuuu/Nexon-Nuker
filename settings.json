@@ -1,0 +1,43 @@
+{
+    "General Settings": {
+        "Use Proxies": true,
+        "Scrape Proxies": true,
+        "Use Random API": true,
+        "Tasks": 14,
+        "Delay": 0.02,
+        "Show Logs": false
+    },
+    "Nuke Settings": {
+        "Token": "your bot or user token here.",
+        "Prefix": ",",
+        "Server Name": "Fucked By Nexon",
+        "Channel Names": [
+            "Nexon Nuker",
+            "Hab a great day!",
+            "Nashu OP"
+        ],
+        "Role Names": [
+            "Nexon Nuker",
+            "Hab a great day!",
+            "Nashu OP"
+        ],
+        "Spam Contents": [
+            "@everyone get fUCKED BY nexon https://dsc.gg/nxon",
+            "@everyone Nexon Nuker OP",
+            "@everyone Great Day?"
+        ],
+        "Webhook Usernames": [
+            "Nexon Was Here",
+            "Nexon Nooker",
+            "Nexon on Top"
+        ],
+        "Whitelisted": [
+            866884991413256202
+        ],
+        "Authorized": [
+            866884991413256202
+        ],
+        "Webhook Spam": true,
+        "Bot": true
+    }
+}
